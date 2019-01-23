@@ -1,0 +1,15 @@
+**new repo
+	>
+	
+if(new repo)
+	>git init
+	
+	>git remote add origin <url of ur repo>
+	
+	>git status (to know the status of untracked files)
+	
+	>git add .
+	
+	>git commit -m "<ur msg>"
+	
+	>git push origin master
